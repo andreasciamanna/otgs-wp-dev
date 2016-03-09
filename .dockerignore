@@ -2,3 +2,4 @@ www/
 etc/
 .idea/
 *.iml
+.DS_Store
